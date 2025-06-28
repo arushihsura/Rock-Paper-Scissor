@@ -13,6 +13,7 @@ Responsive design – works smoothly on desktop and mobile.
 One-click "Play your move" button to start the round.
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3 (with custom buttons and icons)
@@ -20,6 +21,7 @@ CSS3 (with custom buttons and icons)
 JavaScript (game logic, DOM manipulation)
 
 🧠 Game Logic
+
 Rock beats Scissors
 
 Scissors beats Paper
